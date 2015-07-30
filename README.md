@@ -95,18 +95,18 @@ Once it opens close the wallet (it will start syncing, this is not the blockchai
 so just close it out)
 
 **Create .conf for testnet**
-Click the File Explorer from ubuntu menu on the left of the screen (it looks like a filebox)
-Click the "View" menu at the top of the ubuntu window (not virtualbox/vmware) and choose
+- Click the File Explorer from ubuntu menu on the left of the screen (it looks like a filebox)
+- Click the "View" menu at the top of the ubuntu window (not virtualbox/vmware) and choose
 "show hidden files"
-This will add some additional folders to the home folder window that is currently open
-open .paycoin (note the . before paycoin, it's a different folder than the paycoin folder)
-***delete everything in the .paycoin folder***
-After the folder is empty:
-right click in the window choose new document > empty document
-right click the untitled document you just created and choose "rename"
-rename the document paycoin.conf
-right click paycoin.conf and choose "open with gedit"
-put the following lines in the paycoin.conf file
+- This will add some additional folders to the home folder window that is currently open
+- open .paycoin (note the . before paycoin, it's a different folder than the paycoin folder)
+- ***delete everything in the .paycoin folder***
+- After the folder is empty:
+- right click in the window choose new document > empty document
+- right click the untitled document you just created and choose "rename"
+- rename the document paycoin.conf
+- right click paycoin.conf and choose "open with gedit"
+- put the following lines in the paycoin.conf file
 
 ```bash
 testnet=1
