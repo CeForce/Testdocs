@@ -1,5 +1,6 @@
 **Paycoin Testnet Wallet Setup**
- This will be an updated post as we build out more instructions. This will get an operating qt wallet setup on a virtual machine for use on the testnet
+
+This guide will get an operating qt wallet setup on a virtual machine for use on the testnet
 
 **Required Downloads**
 - [Virtual Box (latest release)](https://www.virtualbox.org/wiki/Downloads "Virtual Box")
